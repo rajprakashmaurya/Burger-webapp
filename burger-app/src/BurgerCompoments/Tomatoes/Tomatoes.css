@@ -1,0 +1,12 @@
+.group {
+  display: flex;
+  padding: 0 2%;
+}
+.tomatoes {
+  background-color: red;
+  width: 100%;
+  height: 15px;
+  border-radius: 12px;
+  margin: auto;
+  border: 2px solid red;
+}
